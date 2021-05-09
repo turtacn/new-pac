@@ -1,4 +1,4 @@
-var proxy = "PROXY 127.0.0.1:60193;";
+var proxy = "PROXY 127.0.0.1:51865;";
 
 var domains = {
   "huaglad.com": 1,
@@ -2197,7 +2197,7 @@ var direct = 'DIRECT;';
 var hasOwnProperty = Object.hasOwnProperty;
 
 
-var servlist = ["PROXY 127.0.0.1:60193;"]; 
+var servlist = ["PROXY 127.0.0.1:51865;"]; 
 
 function ip2int(ip_string) {
     var REG =/^(\d{1,2}|1\d\d|2[0-4]\d|25[0-5])\.(\d{1,2}|1\d\d|2[0-4]\d|25[0-5])\.(\d{1,2}|1\d\d|2[0-4]\d|25[0-5])\.(\d{1,2}|1\d\d|2[0-4]\d|25[0-5])$/;
