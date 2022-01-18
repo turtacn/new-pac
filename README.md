@@ -1,4 +1,5 @@
-自由上网方法大全：
+# 自由上网方法大全：
 
-https://github.com/Alvin9999/new-pac/wiki
+- https://github.com/Alvin9999/new-pac/wiki
+- https://github.com/gfw-breaker/nogfw/
      
